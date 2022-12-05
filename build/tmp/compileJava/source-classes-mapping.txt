@@ -1,16 +1,18 @@
-codegym/model/Account.java
- codegym.model.Account
-codegym/config/ApplicationInitializer.java
- codegym.config.ApplicationInitializer
-codegym/service/AccountService.java
- codegym.service.AccountService
 codegym/config/ApplicationConfig.java
  codegym.config.ApplicationConfig
+codegym/service/AccountService.java
+ codegym.service.AccountService
+codegym/model/Account.java
+ codegym.model.Account
 codegym/model/Role.java
  codegym.model.Role
-codegym/controller/LoginController.java
- codegym.controller.LoginController
+codegym/config/SecurityInit.java
+ codegym.config.SecurityInit
 codegym/repository/IAccountRepo.java
  codegym.repository.IAccountRepo
-codegym/controller/filter/Filter_Login.java
- codegym.controller.filter.Filter_Login
+codegym/config/SecurityConfig.java
+ codegym.config.SecurityConfig
+codegym/config/ApplicationInitializer.java
+ codegym.config.ApplicationInitializer
+codegym/controller/LoginController.java
+ codegym.controller.LoginController
